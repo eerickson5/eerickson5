@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Elise!
+### 🌟 Passionate Software Developer from Atlanta, GA, with a love for creating user-centric applications that make people's lives easier.
+### 🎬 [Get to Know Elise](https://www.loom.com/share/20c0fd7bf5d545fda34f1f3f96cd259c?sid=cb6d0bda-5ceb-4f0d-9b4a-e8157267ecb8) 🎬
 
-<!--
-**eerickson5/eerickson5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+💻 My coding journey began with a desire to solve real-world problems in the industries I worked in. I love researching problems, understanding users, and developing solutions that make their lives easier.
 
-Here are some ideas to get you started:
+🥈 My second favorite part of development? Thinking about how my product can best serve its users. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥇 My favorite part? Seeing it improve their lives!
+
+🥏 When I'm not at my computer, you can catch me chasing a plastic circle around a field with friends, exploring hiking trails, or inviting strangers to a game of doubles.
+
+## 💼 Experience
+#### Software Engineer at The Sports Rehabilitation Center
+📈 Built and implemented Call Pad, a patient arrival management system, saving 1,638 hours and $65,520 annually per location
+⌨️ TypeScript, React Native
+
+#### Software Engineer (Contract) at On Target Pediatric Therapy
+📈 Developed a patient arrival management system based on customer needs, utilizing Cloud Functions for 1500 weekly interactions with 15 daily active users
+⌨️ TypeScript, React Native, Node.js
+
+## 🛠️ Technical Skills
+Languages: JavaScript, TypeScript, Python, Java, SQL, HTML, CSS
+
+Frameworks & Tools: React.js, React Native, Next.js, Node.js, TailwindCSS, Flask, Prisma
+
+## 🎓 Education
+Flatiron School
+Full Stack Web Development | Python, JavaScript, & SQL (November 2023 - July 2024)
+
+### 🌐 Find Me Online
+[LinkedIn](https://www.linkedin.com/in/elise-erickson/)
+
+[Blog](https://dev.to/erickson24)
