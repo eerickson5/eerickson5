@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Elise!
+# 👩🏼‍💻 Hi, I'm Elise!
 ### 🌟 Passionate Software Developer from Atlanta, GA, with a love for creating user-centric applications that make people's lives easier.
-### 🎬 [Get to Know Elise](https://www.loom.com/share/20c0fd7bf5d545fda34f1f3f96cd259c?sid=cb6d0bda-5ceb-4f0d-9b4a-e8157267ecb8) 🎬
+[LinkedIn](https://www.linkedin.com/in/elise-erickson/) | [Blog](https://dev.to/erickson24) | [Get to Know Elise](https://www.loom.com/share/20c0fd7bf5d545fda34f1f3f96cd259c?sid=cb6d0bda-5ceb-4f0d-9b4a-e8157267ecb8)
 
 ## 🚀 About Me
 💻 My coding journey began with a desire to solve real-world problems in the industries I worked in. I love researching problems, understanding users, and developing solutions that make their lives easier.
@@ -28,8 +28,3 @@ Frameworks & Tools: React.js, React Native, Next.js, Node.js, TailwindCSS, Flask
 ## 🎓 Education
 Flatiron School
 Full Stack Web Development | Python, JavaScript, & SQL (November 2023 - July 2024)
-
-### 🌐 Find Me Online
-[LinkedIn](https://www.linkedin.com/in/elise-erickson/)
-
-[Blog](https://dev.to/erickson24)
