@@ -22,10 +22,26 @@
 
 ⌨️ *TypeScript, React Native, Node.js*
 
+## Projects
+#### HEP Genius
+📋  An intuitive web app for physical therapists to build and share custom home exercise programs with their patients.
+
+⌨️ *JavaScript, React, Node.js, Prisma, SQL, Postgres, TailwindCSS*
+
+#### Bracketbot
+📋 Bracketbot is a web application that allows tournament managers to generate matchups, schedules, and brackets from start to finish with a few simple clicks. Gone are the days of spreadsheets and manual calculation for team rankings.
+
+⌨️ *JavaScript, React, Python, Flask, SQL, Postgres, SemanticUI*
+
+#### Git Interactive
+📋  A visual tool for understanding version control with git.
+
+⌨️ *JavaScript, React, Postman, SemanticUI*
+
 ## 🛠️ Technical Skills
 Languages: JavaScript, TypeScript, Python, Java, SQL, HTML, CSS
 
-Frameworks & Tools: React.js, React Native, Next.js, Node.js, TailwindCSS, Flask, Prisma
+Frameworks & Tools: React.js, React Native, Next.js, Node.js, TailwindCSS, Flask, Prisma, Postman
 
 ## 🎓 Education
 Flatiron School
