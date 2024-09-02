@@ -14,11 +14,13 @@
 ## 💼 Experience
 #### Software Engineer at The Sports Rehabilitation Center
 📈 Built and implemented Call Pad, a patient arrival management system, saving 1,638 hours and $65,520 annually per location
-⌨️ TypeScript, React Native
+
+⌨️ *TypeScript, React Native*
 
 #### Software Engineer (Contract) at On Target Pediatric Therapy
 📈 Developed a patient arrival management system based on customer needs, utilizing Cloud Functions for 1500 weekly interactions with 15 daily active users
-⌨️ TypeScript, React Native, Node.js
+
+⌨️ *TypeScript, React Native, Node.js*
 
 ## 🛠️ Technical Skills
 Languages: JavaScript, TypeScript, Python, Java, SQL, HTML, CSS
