@@ -1,5 +1,5 @@
 # 👩🏼‍💻 Hi, I'm Elise!
-### 🌟 I'm a passionate full stack software engineer from Atlanta, GA, with a focus on creating user-centric applications that make people's lives easier.
+### 🌟 I'm a passionate full stack software engineer from Atlanta, GA, with a focus on creating user-centric tools that make people's lives easier.
 [LinkedIn](https://www.linkedin.com/in/elise-erickson/) | [Blog](https://dev.to/erickson24) | [Get to Know Elise](https://www.loom.com/share/20c0fd7bf5d545fda34f1f3f96cd259c?sid=cb6d0bda-5ceb-4f0d-9b4a-e8157267ecb8)
 
 ## 🚀 About Me
