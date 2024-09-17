@@ -7,9 +7,9 @@
 
 🥈 My second favorite part of development? Thinking about how my product can best serve its users. 
 
-🥇 My favorite part? Seeing it improve their lives!
+🥇 My most favorite part? Seeing it improve their lives!
 
-🥏 When I'm not at my computer, you can catch me chasing a plastic circle around a field with friends, exploring hiking trails, or inviting strangers to a game of doubles.
+🥏 When I'm not at my computer, you can catch me chasing playing frisbee with friends, exploring hiking trails, or inviting strangers to a game of doubles pickleball.
 
 ## 💼 Experience
 #### Software Engineer at The Sports Rehabilitation Center
