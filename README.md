@@ -7,7 +7,7 @@
 
 🥈 My second favorite part of development? Thinking about how my product can best serve its users. 
 
-🥇 My most favorite part? Seeing it improve their lives!
+🥇 My most favorite part? Seeing my product in use by real people!
 
 🥏 When I'm not at my computer, you can catch me chasing playing frisbee with friends, exploring hiking trails, or inviting strangers to a game of doubles pickleball.
 
