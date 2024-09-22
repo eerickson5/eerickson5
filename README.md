@@ -9,7 +9,7 @@
 
 🥇 My most favorite part? Seeing my product in use by real people!
 
-🥏 When I'm not at my computer, you can catch me chasing playing frisbee with friends, exploring hiking trails, or inviting strangers to a game of doubles pickleball.
+🥏 When I'm not at my computer, you can catch me playing frisbee with friends, exploring hiking trails, or inviting strangers to a game of doubles pickleball.
 
 ## 💼 Experience
 #### Software Engineer at The Sports Rehabilitation Center
