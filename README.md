@@ -5,10 +5,6 @@
 ## 🚀 About Me
 💻 My coding journey began with a desire to solve real-world problems in the industries I worked in. I love researching problems, understanding users, and developing solutions that make their lives easier.
 
-🥈 My second favorite part of development? Thinking about how my product can best serve its users. 
-
-🥇 My most favorite part? Seeing my product in use by real people!
-
 🥏 When I'm not at my computer, you can catch me playing frisbee with friends, exploring hiking trails, or inviting strangers to a game of doubles pickleball.
 
 ## 💼 Experience
