@@ -37,7 +37,7 @@
 ## 🛠️ Technical Skills
 Languages: JavaScript, TypeScript, Python, Java, SQL, HTML, CSS
 
-Frameworks & Tools: React.js, React Native, Next.js, Node.js, TailwindCSS, Flask, Prisma, Postman
+Frameworks & Tools: React.js, React Native, Next.js, Node.js, Vue.js, TailwindCSS, Flask, Prisma, Postman
 
 ## 🎓 Education
 Flatiron School
